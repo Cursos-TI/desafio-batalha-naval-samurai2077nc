@@ -1,6 +1,4 @@
-int main(){
-    printf("Desafio Batalha Naval!\n");
-    #include <stdio.h>
+#include <stdio.h>
 #define N 10       // Tamanho do tabuleiro (10×10)
 #define SHIP 3     // Tamanho de cada navio
 #define WATER 0
@@ -70,4 +68,5 @@ int main(void) {
 
     return 0;
 }
+
 
